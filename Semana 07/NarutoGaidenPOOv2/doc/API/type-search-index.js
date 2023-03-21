@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"model","l":"Controladora"},{"p":"model","l":"Entrenamiento"},{"p":"ui","l":"NarutoGaidenPOO"}];updateSearchResults();
